@@ -1,4 +1,7 @@
-### Hi there 👋
+### Work in Progress ... 🚧
+
+![giphy (1)](https://github.com/IndrajeetRawjee/IndrajeetRawjee/assets/104707397/ab946987-7e95-41f1-8283-19091d20f8d4)
+
 
 <!--
 **IndrajeetRawjee/IndrajeetRawjee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
