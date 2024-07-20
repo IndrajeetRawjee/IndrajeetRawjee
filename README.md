@@ -1,4 +1,4 @@
-<div style = "display: flex; justify-content: left">
+<div style = "display: flex; justify-content: center">
 <h1>Indrajeet Rawjee</h1>  
 <h3>+91 8888387723</h3>  
 <h3>indrajeetrawjee4@gmail.com</h3>
