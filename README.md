@@ -1,4 +1,4 @@
-<div style="text-align: center;"># Indrajeet Rawjee</div>
+<div style="text-align: center;"><strong>Indrajeet Rawjee</strong></div>
 
 
 
