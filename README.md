@@ -1,7 +1,15 @@
-<div style="display: flex; justify-content: center;">
-    <strong>Indrajeet Rawjee</strong>
-</div>
+<center>
+<strong>Indrajeet Rawjee</strong>
+</center>
 
+
+# Indrajeet Rawjee  
+### +91 8888387723</h3>  
+### indrajeetrawjee4@gmail.com</h3>
+### Pune, India  
+### Ready to Relocate.  
+### [LinkedIn Profile](https://www.linkedin.com/in/indrajeet-rawjee/)  
+## [Resume](https://drive.google.com/file/d/1oxcsH-8opeMjlvaWZaweNEwsjb8fi6cc/view?usp=drive_link) 
 
 <!--
 **IndrajeetRawjee/IndrajeetRawjee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
