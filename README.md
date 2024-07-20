@@ -1,9 +1,9 @@
-# Indrajeet Rawjee
-##+91 8888387723
-##indrajeetrawjee4@gmail.com
-##Pune, India
-##Ready to Relocate.
-##LinkedIn Profile
+# Indrajeet Rawjee  
+##+91 8888387723  
+##indrajeetrawjee4@gmail.com  
+##Pune, India  
+##Ready to Relocate.  
+##LinkedIn Profile  
 
 
 
