@@ -1,7 +1,3 @@
-Here's the complete resume with the **Professional Summary** included at the top:
-
----
-
 **Indrajeet Rawjee**  
 Pune, India | +91 8888387723 | indrajeetrawjee4@gmail.com  
 [LinkedIn Profile](https://www.linkedin.com/in/indrajeet-rawjee)  
@@ -77,7 +73,3 @@ Ness Wadia College of Commerce (Savitribai Phule Pune University), Pune
 - **English:** Fluent
 - **German:** Basic
 - **Hindi:** Native
-
----
-
-This version now includes your professional summary at the top. Let me know if there's anything else you'd like to adjust!
